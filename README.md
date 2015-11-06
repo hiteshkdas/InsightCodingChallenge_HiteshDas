@@ -6,7 +6,7 @@ Implementation of two features:
 Solution:
 The coding is done in Python language. The single python code handles both the features. It is invoked by "run.sh" script. 
 The python code name is "features.py".
-I used Cloud 9 IDE to develop and execute the code. Paths for input and output files in the python code are ('/home/ubuntu/workspace/tweets.txt') and ('/home/ubuntu/workspace/ft1.txt', '/home/ubuntu/workspace/ft2.txt') respectively.
+I used Cloud 9 IDE to develop and execute the code. Paths for input and output files in the python code are ('/home/ubuntu/workspace/tweets.txt') and ('/home/ubuntu/workspace/ft1.txt', '/home/ubuntu/workspace/ft2.txt') respectively. The run.sh and features.py scripts were kepts in same workspace i.e., "/home/ubuntu/workspace/" during execution in Cloud 9 IDE.
 The file "tweets.txt" (inside tweet_input folder) contains the test data that I used for execution.
 The file "ft1.txt" (inside tweet_output folder) contains the output obtained for first feature.
 The file "ft2.txt" (inside tweet_output folder) contains the output obtained for second feature.
